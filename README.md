@@ -2,7 +2,6 @@
 
 
 ## 🎓 About Me
-<img align="right" alt="Happiness" width="350" style="margin-left: 20px; border-radius: 10px;" src="./happiness.jpg" />
 - Sophomore at Northwestern University
 - Major in Computer Science
 - Minor in Machine Learning & Data Science
