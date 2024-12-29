@@ -39,4 +39,4 @@
 <!-- - [ ] Secure a summer internship -->
 
 ## 📊 GitHub Stats 
-![Your GitHub stats](https://github-readme-stats-gray-psi-17.vercel.app/api?username=aiden-lee11&show_icons=true&theme=rose_pine)
+![Your GitHub stats](https://github-readme-stats-gray-psi-17.vercel.app/api?username=aiden-lee11&hide=issues&show_icons=true&theme=rose_pine)
