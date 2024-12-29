@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Aiden Lee
 
-<img align="right" alt="happiness" width="200" src="./happiness.jpg" />
+<img align="right" alt="Happiness" width="350" style="margin-left: 20px; border-radius: 10px;" src="./happiness.jpg" />
 
 ## 🎓 About Me
 - Sophomore at Northwestern University
