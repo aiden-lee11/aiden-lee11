@@ -1,9 +1,7 @@
 <img src="./img.gif" width="600" height="300" />
 
 ##  About Me
-- Sophomore at Northwestern University
-- Major in Computer Science
-- Minor in Machine Learning & Data Science
+- Sophomore studying CS at Northwestern University
 - Always building, always learning!
 
 <!-- ## 📫 Let's Connect! -->
