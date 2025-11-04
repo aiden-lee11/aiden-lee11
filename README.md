@@ -1,7 +1,7 @@
 <img src="./img.gif" width="600" height="300" />
 
 ##  About Me
-- rising third year cs student at northwestern trying to find a summer internship :D
+- third year cs student at northwestern trying to find a summer internship :D
 - I often code on stream, check out how these repos got built [here](https://www.youtube.com/@aiden-lee11)
 
 <!-- ## 📊 GitHub Stats --> 
